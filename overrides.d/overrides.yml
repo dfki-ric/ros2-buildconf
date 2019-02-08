@@ -6,3 +6,8 @@
 #   - rtt
 #     branch: test
 #  
+
+- gui/vizkit3d:
+  github: envire/gui-vizkit3d
+  branch: osgviz
+  tag: ~
