@@ -28,3 +28,5 @@ Autoproj.gitorious_server_configuration('DFKIGIT', 'git.hb.dfki.de', default: 's
 
 
 Autoproj.env_inherit 'CMAKE_PREFIX_PATH'
+
+Autobuild.displayed_error_line_count="ALL"
