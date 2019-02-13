@@ -11,3 +11,6 @@
   github: envire/gui-vizkit3d
   branch: osgviz
   tag: ~
+
+- gui/osgviz_plugins/synchronizer:
+  branch: zmq
