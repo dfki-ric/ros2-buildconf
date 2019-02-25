@@ -7,10 +7,13 @@
 #     branch: test
 #  
 
-- gui/vizkit3d:
-  github: envire/gui-vizkit3d
-  branch: osgviz
-  tag: ~
+#- gui/vizkit3d:
+#  github: envire/gui-vizkit3d
+#  branch: osgviz
+#  tag: ~
 
 - gui/osgviz_plugins/synchronizer:
+  branch: zmq
+
+- gui/osgviz_plugins/camera_synchronizer:
   branch: zmq
