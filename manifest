@@ -19,7 +19,7 @@ package_sets:
 # imported by other rock sets.
 layout:
    - vrlab/vr_environment
-
+   - vrlab/vrlab_client_display
    #- rock.core
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
