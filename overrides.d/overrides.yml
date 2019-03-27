@@ -17,3 +17,6 @@
 
 - gui/osgviz_plugins/camera_synchronizer:
   branch: zmq
+
+- envire/envire_urdf:
+  branch: devel
