@@ -1,5 +1,5 @@
 
 
-- gui/osgviz:
+#- gui/osgviz:
   #https://github.com/rock-core/gui-osgviz/pull/22
-  branch: getHUD
+#  branch: getHUD
