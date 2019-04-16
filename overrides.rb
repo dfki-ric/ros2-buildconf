@@ -12,9 +12,9 @@
 # See config.yml to set the prefix:/opt/autoproj/2.0 globally for all packages.
 
 
-Autoproj.add_osdeps_overrides 'osg', :package => 'external/openscenegraph'
-Autobuild::Package['external/openscenegraph'].define "CMAKE_BUILD_TYPE", "Release"
-Autobuild::Package['external/osgQt'].define "CMAKE_BUILD_TYPE", "Release"
-Autobuild::Package['external/osgQt'].define "DESIRED_QT_VERSION", "4"
+#Autoproj.add_osdeps_overrides 'osg', :package => 'external/openscenegraph'
+#Autobuild::Package['external/openscenegraph'].define "CMAKE_BUILD_TYPE", "Release"
+#Autobuild::Package['external/osgQt'].define "CMAKE_BUILD_TYPE", "Release"
+#Autobuild::Package['external/osgQt'].define "DESIRED_QT_VERSION", "4"
 
 
