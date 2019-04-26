@@ -17,4 +17,5 @@
 #Autobuild::Package['external/osgQt'].define "CMAKE_BUILD_TYPE", "Release"
 #Autobuild::Package['external/osgQt'].define "DESIRED_QT_VERSION", "4"
 
+Autobuild.env_add "OSG_DIR", "#{ENV['AUTOPROJ_CURRENT_ROOT']}/install/lib64/"
 
