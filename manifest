@@ -24,7 +24,8 @@ layout:
    - gui/robot_model
    - gui/osgviz_plugins/vizkit3d
    - interaction/executables/openvr_graph_publisher_zmq
-   
+   - interaction/libraries/controlled_robot
+
    #- rock.core
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
