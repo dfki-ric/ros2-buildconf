@@ -24,6 +24,7 @@ layout:
    - gui/robot_model
    - gui/osgviz_plugins/vizkit3d
    - interaction/executables/openvr_graph_publisher_zmq
+   - interaction/executables/openvr_publisher_zmq
    - interaction/libraries/controlled_robot
 
    #- rock.core
