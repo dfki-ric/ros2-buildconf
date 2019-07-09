@@ -24,9 +24,14 @@ layout:
    - vrlab/vrlab_client_display
    - gui/robot_model
    - gui/osgviz_plugins/vizkit3d
-   
+  
    - interaction/types
    - interaction/executables/rock_joints_driver
+
+   - interaction/executables/openvr_graph_publisher_zmq
+   - interaction/executables/openvr_publisher_zmq
+   - interaction/libraries/controlled_robot
+
    #- rock.core
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above

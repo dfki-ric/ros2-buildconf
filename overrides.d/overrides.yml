@@ -20,3 +20,6 @@
 
 - envire/envire_urdf:
   branch: devel
+
+- gui/osgviz:
+  branch: develop
