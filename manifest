@@ -11,6 +11,7 @@ package_sets:
    - github: rock-core/compilerspeedup-package_set
 
    - dfkigit: VR-Lab/vrlab-package_set
+   - dfkigit: Interaction/interaction-package_set
 
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the layout below
@@ -24,6 +25,8 @@ layout:
    - gui/robot_model
    - gui/osgviz_plugins/vizkit3d
    
+   - interaction/types
+   - interaction/executables/rock_joints_driver
    #- rock.core
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
