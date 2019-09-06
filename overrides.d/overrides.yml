@@ -27,5 +27,5 @@
 #set openvr to msys version
 - external/openvr:
   tag: v1.0.16
-  branch:
-  commit: 
+  branch: ~
+  commit: ~

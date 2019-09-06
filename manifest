@@ -26,8 +26,8 @@ layout:
    - interaction/types
    - interaction/executables/rock_joints_driver
 
-   - interaction/executables/openvr_graph_publisher_zmq
-   - interaction/executables/openvr_publisher_zmq
+   #- interaction/executables/openvr_graph_publisher_zmq
+   #- interaction/executables/openvr_publisher_zmq
    - interaction/libraries/controlled_robot
 
    #- rock.core
