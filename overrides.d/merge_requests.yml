@@ -5,6 +5,6 @@
 #  branch: getHUD
 
 #https://github.com/rock-cpp/orocos_cpp_base/pull/1
-- tools/orocos_cpp_base:
-    github: planthaber/orocos_cpp_base
-    branch: rtt2.9
+# - tools/orocos_cpp_base:
+#     github: planthaber/orocos_cpp_base
+#     branch: rtt2.9
