@@ -23,3 +23,9 @@
 
 - gui/osgviz:
   branch: develop
+
+#set openvr to msys version
+- external/openvr:
+  tag: v1.0.16
+  branch: ~
+  commit: ~
