@@ -30,8 +30,9 @@ layout:
    #- interaction/executables/openvr_publisher_zmq
    - interaction/libraries/controlled_robot
 
-   - mare_it_simulation
+   #- mare_it_simulation
    - offshore_field
+   - cuttlefish
 
    #- rock.core
    # Uncomment to enable the Rock/ROS bridge

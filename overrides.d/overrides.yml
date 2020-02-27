@@ -35,7 +35,7 @@
   patches:
     - $AUTOPROJ_SOURCE_DIR/patches/offshore_field_no_deps.patch
 
-- mare_it_simulation:
+- cuttlefish:
   patches:
-    - $AUTOPROJ_SOURCE_DIR/patches/mare_it_simulation_no_deps.patch
+    - $AUTOPROJ_SOURCE_DIR/patches/cuttlefish_no_deps.patch
     
