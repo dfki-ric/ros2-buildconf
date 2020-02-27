@@ -29,3 +29,13 @@
   tag: v1.0.16
   branch: ~
   commit: ~
+
+
+- offshore_field:
+  patches:
+    - $AUTOPROJ_SOURCE_DIR/patches/offshore_field_no_deps.patch
+
+- mare_it_simulation:
+  patches:
+    - $AUTOPROJ_SOURCE_DIR/patches/mare_it_simulation_no_deps.patch
+    

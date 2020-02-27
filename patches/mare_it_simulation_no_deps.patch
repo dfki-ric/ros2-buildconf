@@ -1,0 +1,21 @@
+diff --git a/manifest.xml b/manifest.xml
+index 8c77cc9..75d541b 100644
+--- manifest.xml
++++ manifest.xml
+@@ -8,7 +8,7 @@
+   <url>http://</url>
+   <logo>http://</logo>
+ 
+-  <depend package="gazebo_ros" />
++  <!-- <depend package="gazebo_ros" />
+   <depend package="gazebo_ros_control" />
+   <depend package="uuv_sensor_ros_plugins" />
+   <depend package="uuv_gazebo_ros_plugins" />
+@@ -21,6 +21,6 @@
+   <depend package="models/mare_it_arms_description" />
+   <depend package="models/mare_it_arms_moveit_config" />
+   <depend package="manipulation/manipulator_control" />
+-  <depend package="offshore_field" />
++  <depend package="offshore_field" /> -->
+ 
+ </package>
