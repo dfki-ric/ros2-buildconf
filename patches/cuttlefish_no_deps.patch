@@ -1,7 +1,7 @@
 diff --git a/manifest.xml b/manifest.xml
 index 5456173..ab4d2c4 100644
---- a/manifest.xml
-+++ b/manifest.xml
+--- manifest.xml
++++ manifest.xml
 @@ -8,7 +8,7 @@
    <url>http://</url>
    <logo>http://</logo>
