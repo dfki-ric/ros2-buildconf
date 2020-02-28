@@ -1,0 +1,12 @@
+diff --git a/manifest.xml b/manifest.xml
+index c5bee97..61912b2 100644
+--- manifest.xml
++++ manifest.xml
+@@ -8,6 +8,6 @@
+   <url>http://</url>
+   <logo>http://</logo>
+ 
+-  <depend package="xacro" />
++  <!-- <depend package="xacro" /> -->
+ 
+ </package>

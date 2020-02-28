@@ -29,6 +29,7 @@ layout:
    #- interaction/executables/openvr_graph_publisher_zmq
    #- interaction/executables/openvr_publisher_zmq
    - interaction/libraries/controlled_robot
+   - interaction/libraries/rest_server
 
    - mare_it_arms_description
    - offshore_field
