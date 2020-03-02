@@ -44,4 +44,4 @@
     
     
 - interaction/libraries/controlled_robot:
-  branch: new_cmake
+  branch: devel
