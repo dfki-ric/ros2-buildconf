@@ -30,18 +30,18 @@
   branch: ~
   commit: ~
 
-#- offshore_field:
-#  patches:
-#    - $AUTOPROJ_SOURCE_DIR/patches/offshore_field_no_deps.patch
+- offshore_field:
+  patches:
+    - $AUTOPROJ_SOURCE_DIR/patches/offshore_field_no_deps.patch
 
-#- cuttlefish:
-#  patches:
-#    - $AUTOPROJ_SOURCE_DIR/patches/cuttlefish_no_deps.patch
+- cuttlefish:
+  patches:
+    - $AUTOPROJ_SOURCE_DIR/patches/cuttlefish_no_deps.patch
 
-#- mare_it_arms_description:
-#  patches:
-#    - $AUTOPROJ_SOURCE_DIR/patches/mare_it_arms_description_no_deps.patch
+# - mare_it_arms_description:
+#   patches:
+#     - $AUTOPROJ_SOURCE_DIR/patches/mare_it_arms_description_no_deps.patch
     
     
-#- interaction/libraries/controlled_robot:
-#  branch: devel
+- interaction/libraries/controlled_robot:
+  branch: devel
