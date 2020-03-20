@@ -24,7 +24,7 @@ layout:
    - gui/osgviz_plugins/vizkit3d
   
    - interaction/types
-   - interaction/executables/rock_joints_driver
+   #- interaction/executables/rock_joints_driver
 
    #- interaction/executables/openvr_graph_publisher_zmq
    #- interaction/executables/openvr_publisher_zmq
