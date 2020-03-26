@@ -19,3 +19,6 @@
 
 Autobuild.env_add "OSG_DIR", '${AUTOPROJ_CURRENT_ROOT}/install/lib64/'
 
+
+Autobuild::Package['interaction/libraries/controlled_robot'].define "BUILD_EXAMPLES", "TRUE"
+Autobuild::Package['interaction/libraries/controlled_robot'].define "BUILD_TESTS", "TRUE"
