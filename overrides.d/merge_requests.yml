@@ -9,6 +9,6 @@
 #     github: planthaber/orocos_cpp_base
 #     branch: rtt2.9
 
-# https://github.com/rock-core/gui-vizkit3d/pull/44
+# https://github.com/rock-core/gui-vizkit3d/pull/45
 - gui/vizkit3d:
-  branch: reuse_node_link
+  branch: fix_osgviz_root
