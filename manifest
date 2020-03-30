@@ -89,3 +89,6 @@ layout:
 #
 
 
+ignore_packages:
+  - cuttlefish
+  - mare_it_arms_description
