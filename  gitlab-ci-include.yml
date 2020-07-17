@@ -1,0 +1,14 @@
+# Include this file in the .gitlab-ci.yml file of your Repository to enable CI
+# Your Repository has the be inside the buildconf (the backbone package set)
+#
+#include:
+#   - project: 'sw-backbone/reference-architectures/buildconf'
+#     file: 'gitlab-ci-include.yml'
+
+build_ric_backbone_ros_18.04:
+    image: d-reg.hb.dfki.de:5000/gitlab-ci/docker-ric-backbone-ros_ubuntu:18.04
+    stage: build
+    script:
+    - build_this_package.sh
+  
+  
