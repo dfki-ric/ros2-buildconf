@@ -2,7 +2,7 @@
 # Your Repository has the be inside the buildconf (the backbone package set)
 #
 #include:
-#   - project: 'sw-backbone/reference-architectures/buildconf'
+#   - project: 'sw-backbone/continuous-integration/ric-backbone-ros-buildconf'
 #     file: 'gitlab-ci-include.yml'
 
 build_ric_backbone_ros_18.04:
