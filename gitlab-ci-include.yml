@@ -9,7 +9,7 @@ build_ric_backbone_ros_18.04:
     image: d-reg.hb.dfki.de:5000/gitlab-ci/docker-ric-backbone-ros_ubuntu:18.04
     stage: build
     script:
-    - update_ws_with_autoproj.bash
-    - build_with_gitlab_ci.bash
+    - /opt/hooks/update_ws_with_autoproj.bash
+    - /opt/hooks/build_with_gitlab_ci.bash
   
   
