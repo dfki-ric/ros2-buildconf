@@ -6,7 +6,7 @@ You can take this as an example to initialize your workspace.
 
 please edit the manifest file to defien packages you want to install.
 
-Generally: follow the readme in the [package_set](https://github.com/dfki-ric/ros2_buildconf)
+Generally: follow the readme in the [package_set](https://github.com/dfki-ric/ros2-package_set)
 
 
 
