@@ -4,8 +4,7 @@
 #
 
 package_sets:
-   - dfkigit: sw-backbone/package_sets/ric-backbone-ros-2
-
+   - github: dfki-ric/ros2-package_set
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the layout below
    # - gitorious: rock-ros/package_set
